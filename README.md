@@ -43,12 +43,12 @@ single-year decline in the dataset
 4. **ML Model** — XGBoost achieved ROC-AUC of 0.863 on 270,852 test patients
 
 ## Machine Learning Results
-| Metric             | Score |
-|---------------===--|-------|
-| ROC-AUC            | 0.863 |
-| Accuracy           | 79%   |
-| Recall (Deaths)    | 75%   |
-| Precision (Deaths) | 65%   |
+| Metric | Score |
+|---|---|
+| ROC-AUC | 0.863 |
+| Accuracy | 79% |
+| Recall (Deaths) | 75% |
+| Precision (Deaths) | 65% |
 
 ## Survival Analysis
 - Kaplan-Meier curves show clear separation between stages
